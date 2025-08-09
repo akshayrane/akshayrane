@@ -1,9 +1,13 @@
 I’m @akshayrane
 
-With over a decade of experience, I specialize in building scalable, secure cloud platforms and compliance-driven solutions. At AWS, I have contributed to critical projects such as automated IAM credential transitions and CloudFormation API validations, significantly enhancing platform security and operational efficiency. My work on AWS CloudFormation Guard advanced cloud compliance through policy-as-code innovations, streamlining CI/CD processes and improving user adoption rates.  
+- *10+ yrs* building planet-scale, security-first cloud platforms — think resilience, reliability, repeatability.  
+- *Shipped AWS-grade impact*: automated IAM cred rotations + CloudFormation API validations = tighter guardrails, smoother ops.  
+- *Policy-as-code champ*: evolved CloudFormation Guard to supercharge CI/CD, compliance that devs actually love.  
+- *Incident slayer*: high-sev firefights → root cause, fast fixes, lasting hardening.  
+- *Tag whisperer*: drove metadata consistency with AWS Tagris to level-up org-wide visibility and governance.  
+- *Team sport always*: collaborate, automate, and de-risk — from design docs to dashboards.  
+- *Mission-mode*: build scalable, secure systems that make compliance invisible and velocity visible.
 
-Passionate about solving complex engineering challenges, I have a proven track record of tackling critical incidents and delivering impactful solutions under pressure. Through a collaborative approach, I enabled metadata consistency with AWS Tagris and supported operational excellence across teams. My mission is to empower organizations with robust, scalable systems that prioritize security and compliance in the cloud.
-
-Hit me up at 
+Hit me up! 
 - [X/@akshay_rane](https://twitter.com/akshay_rane)
 - [LinkedIn/akshayrane](https://www.linkedin.com/in/akshayrane)
