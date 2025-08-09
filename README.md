@@ -1,6 +1,6 @@
 I’m @akshayrane
 
-- *10+ yrs* building planet-scale, security-first cloud platforms — think resilience, reliability, repeatability.  
+- **10+ yrs** building planet-scale, security-first cloud platforms — think resilience, reliability, repeatability.  
 - *Shipped AWS-grade impact*: automated IAM cred rotations + CloudFormation API validations = tighter guardrails, smoother ops.  
 - *Policy-as-code champ*: evolved CloudFormation Guard to supercharge CI/CD, compliance that devs actually love.  
 - *Incident slayer*: high-sev firefights → root cause, fast fixes, lasting hardening.  
