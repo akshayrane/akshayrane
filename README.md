@@ -1,12 +1,9 @@
-Hi, I’m @akshayrane
+I’m @akshayrane
 
-Experienced software and data engineer with 11 years in building scalable data platforms, compliance tools,
-and cloud-native services at Amazon (AWS, Music, Retail). Proven track record of technical leadership, incident
-response, automation, and policy-as-code.
+With over a decade of experience, I specialize in building scalable, secure cloud platforms and compliance-driven solutions. At AWS, I have contributed to critical projects such as automated IAM credential transitions and CloudFormation API validations, significantly enhancing platform security and operational efficiency. My work on AWS CloudFormation Guard advanced cloud compliance through policy-as-code innovations, streamlining CI/CD processes and improving user adoption rates.  
 
-- 📫 How to reach me [X/@akshay_rane](https://twitter.com/akshay_rane), [LinkedIn/akshayrane](https://www.linkedin.com/in/akshayrane)
+Passionate about solving complex engineering challenges, I have a proven track record of tackling critical incidents and delivering impactful solutions under pressure. Through a collaborative approach, I enabled metadata consistency with AWS Tagris and supported operational excellence across teams. My mission is to empower organizations with robust, scalable systems that prioritize security and compliance in the cloud.
 
-<!---
-akshayrane/akshayrane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hit me up at 
+- [X/@akshay_rane](https://twitter.com/akshay_rane)
+- [LinkedIn/akshayrane](https://www.linkedin.com/in/akshayrane)
